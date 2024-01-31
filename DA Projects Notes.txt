@@ -1,0 +1,9 @@
+Data Analyst Projects.
+
+Included:
+
+NHL Player analysis card which uses many advanced formulas and functions in excel, providing a player card using conditional formatting.
+
+Taking raw data in excel and cleaning, creating tables, using power pivot, making charts from pivot tables for data visualization.
+
+Using Public Tableau to organize and create interactive visualizations from excel worksheets.
