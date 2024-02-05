@@ -6,6 +6,9 @@ NHL Player + Team analysis cards which uses many advanced formulas and functions
 
 Taking raw data in excel and cleaning, creating tables, using power pivot, making charts from pivot tables for data visualization.
 
+MLB Stats over a 10 year period. Manual data scraping, excel, SQL, Teableau, Power BI used for analysis and observation. 
+- Batting stats up on tableau, pitching and fielding next. 
+
 Using Public Tableau to organize and create interactive visualizations from excel worksheets.
 
 Using Power BI to organize and create interactive visualizations from excel worksheets.
