@@ -8,7 +8,6 @@ Taking raw data in excel and cleaning, creating tables, using power pivot, makin
 
 MLB Stats over a 10 year period. Manual data scraping, excel, SQL db + tables + table exports from queries, Teableau, Power BI used for analysis and observation. 
 
-
 Using Public Tableau to organize and create interactive visualizations from excel worksheets.
 
 Using Power BI to organize and create interactive visualizations from excel worksheets.
