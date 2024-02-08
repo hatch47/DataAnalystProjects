@@ -11,3 +11,5 @@ MLB Stats over a 10 year period. Manual data scraping, excel, SQL db + tables + 
 Using Public Tableau to organize and create interactive visualizations from excel worksheets.
 
 Using Power BI to organize and create interactive visualizations from excel worksheets.
+
+Academic Labs/Assignments from Database courses added. Previews advanced SQL queries using DML and DDL during courses.
