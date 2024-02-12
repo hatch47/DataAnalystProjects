@@ -13,3 +13,4 @@ Using Public Tableau to organize and create interactive visualizations from exce
 Using Power BI to organize and create interactive visualizations from excel worksheets.
 
 Academic Labs/Assignments from Database courses added. Previews advanced SQL queries using DML and DDL during courses.
+
