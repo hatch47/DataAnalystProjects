@@ -1,0 +1,24 @@
+Problem:
+1-Popular titled character/theme (ex. spiderman/avengers) by average total revenue/movie
+2-Popular titled character/theme (ex. spiderman/avengers) by average audience score/movie
+3-Rolling year over year box office revenue
+4-Phase total revenue per movie
+5-Phase average audience score
+6-net profit by movie
+
+Data:
+1-query titles using excel table, bar
+2-query titles using excel table, bar
+3-line
+4-bar
+5-bar
+6-bar
+
+Report:
+
+Excel Pivot- 1,2
+
+Tableau- 1,2,3,6
+
+
+Power BI-
