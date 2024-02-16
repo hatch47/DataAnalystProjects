@@ -1,0 +1,8 @@
+when updating the player rankings on tableau, must reset the parameter list.
+Heres how:
+1- right click, edit.
+2- under Allowable variables, click All, then click List
+3- click add values from, then click Player, then remove the 0 0 at the top
+4 - set first player as current value
+This is due to new players being added -- so for teams it will not matter because no new teams are added.
+Sebastian Aho needs to put a D by the defenseman due to duplicate names.
