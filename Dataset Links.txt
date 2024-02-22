@@ -1,0 +1,4 @@
+MCU- https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset?resource=download
+NHL- https://www.naturalstattrick.com/
+MLB- https://www.baseball-reference.com/leagues/majors/2023.shtml
+F1- https://www.motorsport.com/f1/news/f1-testing-results-verstappen-2024-pre-season/10578285/

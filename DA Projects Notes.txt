@@ -15,3 +15,5 @@ Using Power BI to organize and create interactive visualizations from excel work
 Academic Labs/Assignments from Database courses added. Previews advanced SQL queries using DML and DDL during courses.
 
 MCU Movies and Trends project added. Pivots, Tableau creation and Power BI visuals.
+
+F1 Project, plans for telemetry if datasets available.
