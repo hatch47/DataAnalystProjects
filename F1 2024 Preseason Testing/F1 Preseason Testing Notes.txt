@@ -1,8 +1,9 @@
 Problem:
-average best time by team
-average best time by driver
+average best time by team using c3 tyre
+average best time by driver using same tyres
 average best times per day - average of all best laps each day
 Teammates head to head best laps and total laps
+
 
 Data:
 
