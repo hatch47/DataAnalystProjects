@@ -1,7 +1,7 @@
 Problem:
-average best time by team using c3 tyre
-average best time by driver using same tyres
-average best times per day - average of all best laps each day
+1. average best time by team using c3 tyre
+2. average best time by driver using same tyres
+3. average best times per day - average of all best laps each day
 
 
 
@@ -10,4 +10,5 @@ Done
 
 
 Report:
-Power BI reports complete
+Power BI reports complete - 1,2,3
+Tableau - 1
