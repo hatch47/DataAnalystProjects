@@ -1,0 +1,4 @@
+Plans for python data analyst project using jupyter, pandas, and numpy
+Need to find dataset to use
+
+Eventually, find f1 telemetry data on github to use for python project 

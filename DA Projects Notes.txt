@@ -17,3 +17,5 @@ Academic Labs/Assignments from Database courses added. Previews advanced SQL que
 MCU Movies and Trends project added. Pivots, Tableau creation and Power BI visuals.
 
 F1 Testing 2024 Project complete in Power BI and Tableau. Plans for telemetry this season if datasets available.
+
+Python projects folder added.
