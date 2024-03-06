@@ -18,4 +18,4 @@ MCU Movies and Trends project added. Pivots, Tableau creation and Power BI visua
 
 F1 Testing 2024 Project complete in Power BI and Tableau. Plans for telemetry this season if datasets available.
 
-Python projects folder added.
+Python projects folder added. Contains HTML files for python code. Jupyter files in specific project folders.
