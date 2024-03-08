@@ -1,55 +1,55 @@
 ﻿Position,Driver,Team,Time,Gap,Laps,Tyres,Day,Best Lap Time,Gap to Best Lap Time,Best Lap Times
-1,Max Verstappen,Red Bull,1:31.344s,0.000s,142,C3,1,1:31.344,0.000,131.344
-2,Lando Norris,Mclaren,1:32.484s,+1.140s,72,C3,1,1:32.484,1.140,132.484
-3,Carlos Sainz,Ferrari,1:32.584s,+1.240s,69,C3,1,1:32.584,1.240,132.584
-4,Daniel Ricciardo,RB,1:32.599s,+1.255s,51,C3,1,1:32.599,1.255,132.599
-5,Pierre Gasly,Alpine,1:32.805s,+1.461s,60,C3,1,1:32.805,1.461,132.805
-6,Lance Stroll,Aston Martin,1:33.007s,+1.663s,53,C3,1,1:33.007,1.663,133.007
-7,Charles Leclerc,Ferrari,1:33.247s,+1.903s,64,C3,1,1:33.247,1.903,133.247
-8,Fernando Alonso,Aston Martin,1:33.385s,+2.041s,77,C3,1,1:33.385,2.041,133.385
-9,Oscar Piastri,Mclaren,1:33.658s,+2.314s,57,C3,1,1:33.658,2.314,133.658
-10,Zhou Guanyu,Sauber,1:33.871s,+2.527s,62,C3,1,1:33.871,2.527,133.871
-11,Logan Sargeant,Williams,1:33.882s,+2.538s,21,C3,1,1:33.882,2.538,133.882
-12,George Russell,Mercedes,1:34.109s,+2.765s,121,C2,1,1:34.109,2.765,134.109
-13,Yuki Tsunoda,RB,1:34.136s,+2.792s,64,C3,1,1:34.136,2.792,134.136
-14,Valtteri Bottas,Sauber,1:34.431s,+3.087s,68,C3,1,1:34.431,3.087,134.431
-15,Alexander Albon,Williams,1:34.587s,+3.243s,40,C4,1,1:34.587,3.243,134.587
-16,Esteban Ocon,Alpine,1:34.677s,+3.333s,60,C1,1,1:34.677,3.333,134.677
-17,Kevin Magnussen,Haas,1:35.692s,+4.348s,66,C3,1,1:35.692,4.348,135.692
-18,Nico Hulkenberg,Haas,1:35.906s,+4.562s,82,C3,1,1:35.906,4.562,135.906
-1,Carlos Sainz,Ferrari,1:29.921s,0.000s,84,C4,2,1:29.921,0.000,129.921
-2,Sergio Perez,Red Bull,1:30.679s,+0.758s,129,C3,2,1:30.679,0.758,130.679
-3,Lewis Hamilton,Mercedes,1:31.066s,+1.145s,123,C3,2,1:31.066,1.145,131.066
-4,Lando Norris,Mclaren,1:31.256s,+1.335s,52,C3,2,1:31.256,1.335,131.256
-5,Daniel Ricciardo,RB,1:31.361s,+1.440s,88,C4,2,1:31.361,1.440,131.361
-6,Charles Leclerc,Ferrari,1:31.750s,+1.829s,54,C3,2,1:31.750,1.829,131.750
-7,Lance Stroll,Aston Martin,1:32.029s,+2.108s,96,C3,2,1:32.029,2.108,132.029
-8,Esteban Ocon,Alpine,1:32.061s,+2.140s,78,C3,2,1:32.061,2.140,132.061
-9,Valtteri Bottas,Sauber,1:32.227s,+2.306s,97,C3,2,1:32.227,2.306,132.227
-10,Oscar Piastri,Mclaren,1:32.328s,+2.407s,35,C3,2,1:32.328,2.407,132.328
-11,Logan Sargeant,Williams,1:32.578s,+2.657s,117,C3,2,1:32.578,2.657,132.578
-12,Fernando Alonso,Aston Martin,1:33.053s,+3.132s,31,C3,2,1:33.053,3.132,133.053
-13,Zhou Guanyu,Sauber,1:33.715s,+3.794s,38,C3,2,1:33.715,3.794,133.715
-14,Pierre Gasly,Alpine,1:33.804s,+3.883s,33,C3,2,1:33.804,3.883,133.804
-15,Kevin Magnussen,Haas,1:36.611s,+6.690s,93,C3,2,1:36.611,6.690,136.611
-16,Nico Hulkenberg,Haas,1:37.509s,+7.588s,31,C3,2,1:37.509,7.588,137.509
-17,Yuki Tsunoda,RB,1:38.074s,+8.153s,40,C3,2,1:38.074,8.153,138.074
-1,Charles Leclerc,Ferrari,1:30.322s,0.000s,74,C4,3,1:30.322,0.000,130.322
-2,George Russell,Mercedes,1:30.368s,+0.046s,67,C4,3,1:30.368,0.046,130.368
-3,Zhou Guanyu,Sauber,1:30.647s,+0.325s,85,C4,3,1:30.647,0.325,130.647
-4,Max Verstappen,Red Bull,1:30.755s,+0.433s,66,C3,3,1:30.755,0.433,130.755
-5,Yuki Tsunoda,RB,1:30.775s,+0.453s,53,C4,3,1:30.775,0.453,130.775
-6,Alexander Albon,Williams,1:30.984s,+0.662s,121,C4,3,1:30.984,0.662,130.984
-7,Oscar Piastri,Mclaren,1:31.030s,+0.708s,91,C3,3,1:31.030,0.708,131.030
-8,Fernando Alonso,Aston Martin,1:31.159s,+0.837s,75,C3,3,1:31.159,0.837,131.159
-9,Carlos Sainz,Ferrari,1:31.247s,+0.925s,71,C3,3,1:31.247,0.925,131.247
-10,Sergio Perez,Red Bull,1:31.483s,+1.161s,53,C3,3,1:31.483,1.161,131.483
-11,Nico Hulkenberg,Haas,1:31.686s,+1.364s,89,C3,3,1:31.686,1.364,131.686
-12,Lewis Hamilton,Mercedes,1:31.999s,+1.677s,49,C5,3,1:31.999,1.677,131.999
-13,Lance Stroll,Aston Martin,1:32.038s,+1.716s,46,C3,3,1:32.038,1.716,132.038
-14,Lando Norris,Mclaren,1:32.108s,+1.786s,20,C3,3,1:32.108,1.786,132.108
-15,Pierre Gasly,Alpine,1:32.149s,+1.827s,47,C3,3,1:32.149,1.827,132.149
-16,Kevin Magnussen,Haas,1:33.053s,+2.731s,80,C3,3,1:33.053,2.731,133.053
-17,Esteban Ocon,Alpine,1:33.079s,+2.757s,55,C3,3,1:33.079,2.757,133.079
-18,Valtteri Bottas,Sauber,1:33.528s,+3.206s,28,C3,3,1:33.528,3.206,133.528
-19,Daniel Ricciardo,RB,1:37.015s,+6.693s,70,C1,3,1:37.015,6.693,137.015
+1,Max Verstappen,Red Bull,1:31.344s,0.000s,142,C3,1,01:31.3,0,131.344
+2,Lando Norris,Mclaren,1:32.484s,+1.140s,72,C3,1,01:32.5,1.14,132.484
+3,Carlos Sainz,Ferrari,1:32.584s,+1.240s,69,C3,1,01:32.6,1.24,132.584
+4,Daniel Ricciardo,RB,1:32.599s,+1.255s,51,C3,1,01:32.6,1.255,132.599
+5,Pierre Gasly,Alpine,1:32.805s,+1.461s,60,C3,1,01:32.8,1.461,132.805
+6,Lance Stroll,Aston Martin,1:33.007s,+1.663s,53,C3,1,01:33.0,1.663,133.007
+7,Charles Leclerc,Ferrari,1:33.247s,+1.903s,64,C3,1,01:33.2,1.903,133.247
+8,Fernando Alonso,Aston Martin,1:33.385s,+2.041s,77,C3,1,01:33.4,2.041,133.385
+9,Oscar Piastri,Mclaren,1:33.658s,+2.314s,57,C3,1,01:33.7,2.314,133.658
+10,Zhou Guanyu,Sauber,1:33.871s,+2.527s,62,C3,1,01:33.9,2.527,133.871
+11,Logan Sargeant,Williams,1:33.882s,+2.538s,21,C3,1,01:33.9,2.538,133.882
+12,George Russell,Mercedes,1:34.109s,+2.765s,121,C2,1,01:34.1,2.765,134.109
+13,Yuki Tsunoda,RB,1:34.136s,+2.792s,64,C3,1,01:34.1,2.792,134.136
+14,Valtteri Bottas,Sauber,1:34.431s,+3.087s,68,C3,1,01:34.4,3.087,134.431
+15,Alexander Albon,Williams,1:34.587s,+3.243s,40,C4,1,01:34.6,3.243,134.587
+16,Esteban Ocon,Alpine,1:34.677s,+3.333s,60,C1,1,01:34.7,3.333,134.677
+17,Kevin Magnussen,Haas,1:35.692s,+4.348s,66,C3,1,01:35.7,4.348,135.692
+18,Nico Hulkenberg,Haas,1:35.906s,+4.562s,82,C3,1,01:35.9,4.562,135.906
+1,Carlos Sainz,Ferrari,1:29.921s,0.000s,84,C4,2,01:29.9,0,129.921
+2,Sergio Perez,Red Bull,1:30.679s,+0.758s,129,C3,2,01:30.7,0.758,130.679
+3,Lewis Hamilton,Mercedes,1:31.066s,+1.145s,123,C3,2,01:31.1,1.145,131.066
+4,Lando Norris,Mclaren,1:31.256s,+1.335s,52,C3,2,01:31.3,1.335,131.256
+5,Daniel Ricciardo,RB,1:31.361s,+1.440s,88,C4,2,01:31.4,1.44,131.361
+6,Charles Leclerc,Ferrari,1:31.750s,+1.829s,54,C3,2,01:31.8,1.829,131.750
+7,Lance Stroll,Aston Martin,1:32.029s,+2.108s,96,C3,2,01:32.0,2.108,132.029
+8,Esteban Ocon,Alpine,1:32.061s,+2.140s,78,C3,2,01:32.1,2.14,132.061
+9,Valtteri Bottas,Sauber,1:32.227s,+2.306s,97,C3,2,01:32.2,2.306,132.227
+10,Oscar Piastri,Mclaren,1:32.328s,+2.407s,35,C3,2,01:32.3,2.407,132.328
+11,Logan Sargeant,Williams,1:32.578s,+2.657s,117,C3,2,01:32.6,2.657,132.578
+12,Fernando Alonso,Aston Martin,1:33.053s,+3.132s,31,C3,2,01:33.1,3.132,133.053
+13,Zhou Guanyu,Sauber,1:33.715s,+3.794s,38,C3,2,01:33.7,3.794,133.715
+14,Pierre Gasly,Alpine,1:33.804s,+3.883s,33,C3,2,01:33.8,3.883,133.804
+15,Kevin Magnussen,Haas,1:36.611s,+6.690s,93,C3,2,01:36.6,6.69,136.611
+16,Nico Hulkenberg,Haas,1:37.509s,+7.588s,31,C3,2,01:37.5,7.588,137.509
+17,Yuki Tsunoda,RB,1:38.074s,+8.153s,40,C3,2,01:38.1,8.153,138.074
+1,Charles Leclerc,Ferrari,1:30.322s,0.000s,74,C4,3,01:30.3,0,130.322
+2,George Russell,Mercedes,1:30.368s,+0.046s,67,C4,3,01:30.4,0.046,130.368
+3,Zhou Guanyu,Sauber,1:30.647s,+0.325s,85,C4,3,01:30.6,0.325,130.647
+4,Max Verstappen,Red Bull,1:30.755s,+0.433s,66,C3,3,01:30.8,0.433,130.755
+5,Yuki Tsunoda,RB,1:30.775s,+0.453s,53,C4,3,01:30.8,0.453,130.775
+6,Alexander Albon,Williams,1:30.984s,+0.662s,121,C4,3,01:31.0,0.662,130.984
+7,Oscar Piastri,Mclaren,1:31.030s,+0.708s,91,C3,3,01:31.0,0.708,131.030
+8,Fernando Alonso,Aston Martin,1:31.159s,+0.837s,75,C3,3,01:31.2,0.837,131.159
+9,Carlos Sainz,Ferrari,1:31.247s,+0.925s,71,C3,3,01:31.2,0.925,131.247
+10,Sergio Perez,Red Bull,1:31.483s,+1.161s,53,C3,3,01:31.5,1.161,131.483
+11,Nico Hulkenberg,Haas,1:31.686s,+1.364s,89,C3,3,01:31.7,1.364,131.686
+12,Lewis Hamilton,Mercedes,1:31.999s,+1.677s,49,C5,3,01:32.0,1.677,131.999
+13,Lance Stroll,Aston Martin,1:32.038s,+1.716s,46,C3,3,01:32.0,1.716,132.038
+14,Lando Norris,Mclaren,1:32.108s,+1.786s,20,C3,3,01:32.1,1.786,132.108
+15,Pierre Gasly,Alpine,1:32.149s,+1.827s,47,C3,3,01:32.1,1.827,132.149
+16,Kevin Magnussen,Haas,1:33.053s,+2.731s,80,C3,3,01:33.1,2.731,133.053
+17,Esteban Ocon,Alpine,1:33.079s,+2.757s,55,C3,3,01:33.1,2.757,133.079
+18,Valtteri Bottas,Sauber,1:33.528s,+3.206s,28,C3,3,01:33.5,3.206,133.528
+19,Daniel Ricciardo,RB,1:37.015s,+6.693s,70,C1,3,01:37.0,6.693,137.015
