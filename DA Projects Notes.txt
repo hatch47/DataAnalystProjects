@@ -3,6 +3,7 @@ Data Analyst Projects.
 Included:
 
 NHL Player + Team analysis cards which uses many advanced formulas and functions in excel, providing a player card using conditional formatting. Includes tableau visuals for the 5 most recent team seasons, current 2 year sample, and current player season.
+- Idea: Python visuals altering current code to show playoff matchups on same graph. 
 
 Taking raw data in excel and cleaning, creating tables, using power pivot, making charts from pivot tables for data visualization.
 
