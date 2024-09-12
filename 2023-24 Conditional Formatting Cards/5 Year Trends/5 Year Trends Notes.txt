@@ -1,0 +1,8 @@
+For New Season (2024-25)
+
+- Update 2024-25 excel document when season starts (currently has previous season data)
+- Update 2024-25 sheet on Team 5 Year Trends excel document
+- Update Master Table with 2024-25 sheet data
+- change all instances of Arizona Coyotes on master table to "Utah Hockey Club (Formerly Arizona Coyotes)"
+- When adding new data, update the list by resetting the list in the edit of Team Value parameter
+- Keep the previous 5 seasons of data until end of 2024-25, then either make a new sheet with the current 5 years at that time (without removing the current one, rename both), or rename it to a 6 year trends and just continue that year over year
